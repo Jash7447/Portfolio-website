@@ -19,30 +19,15 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+      As a computer science student at Ahmedabad University, I constantly learn and grow as a technologist. I am passionate about using my skills and knowledge to build innovative solutions that positively impact the world.
       </p>
 
-      <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+      <p className="mb-3">
+      I have had the opportunity to work on various projects during my studies, including projects from cross disciplines which has allowed me to develop my skills in multiple areas apart from computer studies. I am always looking for new opportunities to learn and grow as a developer, and I am excited to connect with professionals in the industry.
+Apart from other activities, I'm well devoted to my university education, with a current 3.79/4 SGPA.
+      </p>
+      <p >
+      I enjoy exploring new technologies and staying up-to-date on industry trends in my free time. I look forward to connecting and collaborating with you.
       </p>
     </motion.section>
   );
